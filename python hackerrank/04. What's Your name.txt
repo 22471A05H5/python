@@ -1,0 +1,12 @@
+What's Your Name?
+
+def print_full_name(a,b):
+    # Write your code here
+    print("Hello "+a+" "+b+"! You just delved into python.")
+
+input:
+Ross
+Taylor
+
+output:
+Hello Ross Taylor! You just delved into python.

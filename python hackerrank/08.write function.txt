@@ -1,0 +1,14 @@
+Write Function
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(0,n,1):
+        print(i*i)
+input:
+5
+
+output:
+0
+1
+4
+9
+16
