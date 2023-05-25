@@ -1,0 +1,1 @@
+Find the largest kxk submatrix with all entries 1 in a mxn binary matrix

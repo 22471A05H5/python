@@ -1,0 +1,15 @@
+4. Write a program which accepts a sequence of comma-separated numbers 
+from console and generate a list and a tuple which contains every 
+number.Suppose the following input is supplied to the program:
+34,67,55,33,12,98
+Then, the output should be:
+['34', '67', '55', '33', '12', '98']
+('34', '67', '55', '33', '12', '98')
+
+l=list(map(int,input().split(','))
+print(l)
+s=tuple(l)
+print(s)
+output:
+l=[1,2,3,4,5]
+s=(1,2,3,4,5)

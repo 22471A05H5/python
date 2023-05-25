@@ -1,0 +1,10 @@
+Define a function that can convert a integer into a string and print it in 
+console.
+
+num = 10
+ print("Type of variable before conversion : ", type(num))
+ converted_num = str(num)
+ print("Type After conversion : ",type(converted_num))
+output:
+Type of variable before conversion :  <class 'int'>
+Type After conversion :  <class 'str'>

@@ -1,0 +1,14 @@
+Define a function that can accept two strings as input and concatenate 
+them and then print it in console.
+
+s1 = input('Please enter the first string:\n')
+s2 = input('Please enter the second string:\n')
+
+print('Concatenated String =', s1 + s2)
+
+output:
+Please enter the first string:
+Hello
+Please enter the second string:
+World
+Concatenated String = HelloWorld

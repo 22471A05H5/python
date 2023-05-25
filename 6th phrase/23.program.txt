@@ -1,0 +1,9 @@
+Write a method which can calculate square value of number
+
+n = 2
+n2 = 3
+print(n**2)
+print(n2**2)
+output:
+4
+9
